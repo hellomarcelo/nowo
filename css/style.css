@@ -1,0 +1,206 @@
+
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400|Roboto+Mono:400');
+
+html {font-size: 137.5%;} /*22px*/
+
+body {
+  background-color: white;
+  font-family: 'Roboto Mono', monospace;
+  font-weight: 400;
+  line-height: 1.65;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  
+
+}
+
+p {margin-bottom: 1.15rem; color: #282828;}
+a {font-size: 0.75em;}
+
+h1, h2, h3, h4, h5 {
+  margin: 2.75rem 0 1.05rem;
+  font-family: 'Krona One';
+  font-weight: 700;
+  line-height: 1.15;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 4.209em;
+  text-align: center;
+  color: white;
+}
+
+h2 {font-size: 3.157em;}
+
+h3 {font-size: 2.369em;}
+
+h4 {font-size: 1.777em;}
+
+h5 {font-size: 1.333em;}
+
+
+/*
+Navbar
+*/
+
+.navbar {
+    background-color:  #000 !important;
+    
+
+}
+
+.cta-white {
+    color: #fff;
+    border: 2.5px solid white;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.cta-white:hover {
+    text-decoration: transparent;
+    color: #37cd8f;
+    border: 2.5px solid #37cd8f;
+}
+
+.hero {
+    width: 100%;
+    background-color: #000;
+   
+    
+    
+}
+
+.hero-title {
+    margin-top: 60px;
+}
+
+.hero p {
+    color: white;
+    text-align: center;
+}
+
+
+
+.hero-img img {
+    width: 100%;
+    margin-top: 60px;
+    margin-bottom: 140px;
+    
+}
+
+.line{
+    width: 100%;
+}
+
+.sub {
+    
+    background-color: black;
+    color: #fff;
+}
+
+.sub h3 {
+    margin-top: 120px;
+    margin-bottom: 120px;
+    
+    text-align: center;
+}
+
+.sub-2 {
+   
+    
+}
+
+.sub-2 h3 {
+    margin-top: 60px;
+    margin-bottom: 120px;
+    
+    text-align: center;
+}
+
+.step {
+   
+    padding: 1em;
+    
+}
+
+.step-title h2 {
+    
+    
+}
+
+.step-img img {
+    width: 100%;
+}
+
+.sub-img img {
+    padding-top: 2em;
+    margin: 0 !important;
+}
+
+.contact {
+    
+    
+    background-color: #070707;
+
+}
+
+.contact h4, .contact h5 {
+    color: white;
+}
+
+
+
+.contact-cta {
+    padding-bottom: 2em;
+   margin-top: 2em;
+}
+
+.cta-white2 {
+   
+    color: #fff;
+    border: 2.5px solid #fff;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+
+.cta-white2:hover {
+    text-decoration: transparent;
+    color:  #ffa0fa;
+    border: 2.5px solid #ffa0fa;
+}
+
+.contact-one {
+    
+    margin-bottom: 2em;
+}
+
+.footer {
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: black;
+    color: white;
+    font-size: 0.75em;
+   
+}
+
+.footer a {
+    font-size: 0.75em !important;
+    
+}
+
+.credits {
+    padding-bottom: 2em;
+}
+
+.copy p {
+    color: white;
+    font-size: 0.75em;
+    
+}
+
+
+
+
