@@ -47,14 +47,14 @@ Navbar
 */
 
 .navbar {
-    background-color:  #000 !important;
+    background-color:  #fff !important;
     
 
 }
 
 .cta-white {
     color: #000;
-    border: 2.5px solid white;
+    border: 2.5px solid black;
     border-radius: 10px;
     padding: 10px 20px;
 }
