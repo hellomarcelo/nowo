@@ -143,12 +143,12 @@ Navbar
 .contact {
     
     
-    background-color: #070707;
+    background-color: #fff;
 
 }
 
 .contact h4, .contact h5 {
-    color: white;
+    color: black;
 }
 
 
@@ -160,8 +160,8 @@ Navbar
 
 .cta-white2 {
    
-    color: #fff;
-    border: 2.5px solid #fff;
+    color: black;
+    border: 2.5px solid #black;
     border-radius: 10px;
     padding: 10px 20px;
 }
@@ -180,8 +180,8 @@ Navbar
 .footer {
     padding-top: 1em;
     padding-bottom: 1em;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: black;
     font-size: 0.75em;
    
 }
