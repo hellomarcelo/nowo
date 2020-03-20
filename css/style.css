@@ -30,7 +30,7 @@ h1 {
   margin-top: 0;
   font-size: 4.209em;
   text-align: center;
-  color: white;
+  color: black;
 }
 
 h2 {font-size: 3.157em;}
@@ -53,7 +53,7 @@ Navbar
 }
 
 .cta-white {
-    color: #fff;
+    color: #000;
     border: 2.5px solid white;
     border-radius: 10px;
     padding: 10px 20px;
@@ -67,7 +67,7 @@ Navbar
 
 .hero {
     width: 100%;
-    background-color: #000;
+    background-color: #fff;
    
     
     
@@ -78,7 +78,7 @@ Navbar
 }
 
 .hero p {
-    color: white;
+    color: black;
     text-align: center;
 }
 
@@ -97,8 +97,8 @@ Navbar
 
 .sub {
     
-    background-color: black;
-    color: #fff;
+    background-color: white;
+    color: #000;
 }
 
 .sub h3 {
